@@ -33,9 +33,12 @@ Después de rellenar todos los datos, tendremos nuestra cuenta de usuario y pode
   
 Nos aparecerá la interfaz principal de Scratch :
   
-[Imagen 4](Images/4.png)
+[Imagen 4](Images/4.png)  
   
 Lo primero que vamos a hacer es cambiar el idioma, que por defecto aparecerá en ingles.
 Para ello, pulsamos sobre la bola del mundo que nos aparece en la parte superior izquierda del menú principal y seleccionamos el idioma deseado:
   
-[Imagen 5](Images/5.png)
+[Imagen 5](Images/5.png)  
+  
+#####Taller de Introducción a Scratch
+#####OpenXXI S.C.
