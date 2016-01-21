@@ -14,7 +14,7 @@ Para acceder a Scratch nos dirigimos a su web oficial: [Web de Scratch](http://s
     
 A continuación nos encontraremos con una pantalla similar a esta: 
   
-[Imagen 1](images/1.png)
+[Imagen 1](Images/1.png)
   
 Tenemos dos opciones:  
   
@@ -26,16 +26,16 @@ Podemos hacerlo pulsando Únete a Scratch, en la esquina superior derecha de la 
   
 Al hacer clic en ella, nos aparece la siguiente ventana :
   
-[Imagen 2](images/2.png)  
+[Imagen 2](Images/2.png)  
 Después de rellenar todos los datos, tendremos nuestra cuenta de usuario y podemos comenzar a crear proyectos. Para ello, pulsaremos sobre Crear, en la esquina superior izquierda de la pantalla:
   
-[Imagen 3](images/3.png)
+[Imagen 3](Images/3.png)
   
 Nos aparecerá la interfaz principal de Scratch :
   
-[Imagen 4](images/4.png)
+[Imagen 4](Images/4.png)
   
 Lo primero que vamos a hacer es cambiar el idioma, que por defecto aparecerá en ingles.
 Para ello, pulsamos sobre la bola del mundo que nos aparece en la parte superior izquierda del menú principal y seleccionamos el idioma deseado:
   
-[Imagen 5](images/5.png)
+[Imagen 5](Images/5.png)
