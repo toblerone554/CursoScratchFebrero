@@ -14,7 +14,7 @@ Para acceder a Scratch nos dirigimos a su web oficial: [Web de Scratch](http://s
     
 A continuación nos encontraremos con una pantalla similar a esta: 
   
-[Imagen 1](images/1.png)
+[Imagen 1](images/1.jpg)
   
 Tenemos dos opciones:  
   
