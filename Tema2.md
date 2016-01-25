@@ -28,7 +28,7 @@ Podemos hacerlo pulsando Únete a Scratch, en la esquina superior derecha de la 
   
 Al hacer clic en ella, nos aparece la siguiente ventana :
   
-[Imagen 2](images/2.png)  
+![Imagen 2](images/2.png)  
 Después de rellenar todos los datos, tendremos nuestra cuenta de usuario y podemos comenzar a crear proyectos. Para ello, pulsaremos sobre Crear, en la esquina superior izquierda de la pantalla:
   
 [Imagen 3](images/3.png)
