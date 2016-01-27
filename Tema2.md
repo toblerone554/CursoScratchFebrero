@@ -95,6 +95,10 @@ En parte superior aparecen las 10 familias de bloques existentes:
 9. Operadores
 10. Más bloques
 
+Dependiendo de las necesidades o del programa que vayamos a realizar tendremos un conjunto de bloques disponibles. Estos bloques se irán explicando en lecciones posteriores.
+
+
+
 
 
 #####Taller de Introducción a Scratch
