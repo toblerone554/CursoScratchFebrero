@@ -77,7 +77,7 @@ F. Menú compartir, donde están las opciones básicas de compartir del proyecto
 
 G. Menú ayuda donde están las opciones básicas de ayuda del proyecto.
 
-2 ** Área de familias de bloques **
+2 **Área de familias de bloques**
 ===========================
   
 ![Imagen 10](images/10.png)  
