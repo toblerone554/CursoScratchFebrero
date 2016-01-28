@@ -188,7 +188,11 @@ Tenemos distintos modos: Previsualización en área grande, en área pequeña y 
 
 Es donde visualizamos las creaciones que realizamos en Scrath.
 
+## 4. Lista de escenario y objetos
 
+La lista de objetos muestra iconos para todos los objetos que tenemos en nuestro proyecto.
+
+Debajo de cada objeto aparece el nombre que tiene.
 
 
 ##### Taller de Introducción a Scratch
