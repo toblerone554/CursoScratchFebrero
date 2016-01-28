@@ -2,7 +2,7 @@
 
 ## A. ¿Que es Scratch?
 
-Scracht es un lenguaje de programación que facilita la creación y desarrollo de historias interactivas, juegos y animaciones. Además, permite la posibilidad de compartir los proyectos que hemos creado con otros usuarios.
+Scratch es un lenguaje de programación que facilita la creación y desarrollo de historias interactivas, juegos y animaciones. Además, permite la posibilidad de compartir los proyectos que hemos creado con otros usuarios.
 
 Fue desarrollado por un grupo de investigadores del Lifelong Kindergarten Group del Laboratorio de Medios del MIT, bajo la dirección del Dr. Mitchel Resnick.
 Scratch busca hacer que la programación sea más atractiva y accesible para todo aquel que se enfrente por primera vez a aprender a programar. Según sus creadores, fue diseñado como medio de expresión para ayudar a niños y jóvenes a expresar sus ideas de forma creativa, al tiempo que desarrollan habilidades tanto de pensamiento lógico, como de aprendizaje para el Siglo XXI.
