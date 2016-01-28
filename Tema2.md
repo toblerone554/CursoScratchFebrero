@@ -180,7 +180,6 @@ Tenemos distintos modos: Previsualización en área grande, en área pequeña y 
 
 ![Imagen 16](images/16.png)  
 
-
 ** Bandera verde: ** Nos sirve para iniciar las creaciones que realizamos con Scrath.
 
 ** Circulo rojo: **  Detiene la ejecución de todos los programas.
