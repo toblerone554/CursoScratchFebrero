@@ -97,9 +97,63 @@ En parte superior aparecen las 10 familias de bloques existentes:
 
 Dependiendo de las necesidades o del programa que vayamos a realizar tendremos un conjunto de bloques disponibles. Estos bloques se irán explicando en lecciones posteriores.
 
+## Edición de programas,disfraces y sonidos
+
+Si pulsamos con el botón derecho del ratón podemos ver toda la información relativa al objeto que estamos seleccionando.
+
+![Imagen 11](images/11.png)  
 
 
 
+Nos da información sobre el estilo de rotación:
+
+1. Rotar: El objeto gira cuando cambia la dirección.
+2. Izquierda-Derecha: El objeto solo mira a izquierda y derecha.
+3. Sin rotación: El objeto nunca gira aunque cambie la dirección.
+
+Nombre del objeto: Nos da el nombre del objeto que tenemos seleccionado.
+
+Posición: Indica la posición X e Y en pantalla.
+
+Dirección: Dirección del objeto en grados.
+
+Programas:
+--
+Muestra toda la información sobre los programas asociados al objeto activo.
+
+![Imagen 12](images/12.png)  
+
+
+Los bloques los vamos arrastrando para crear los programas.
+
+Disfraces:
+--
+Sirve para visualizar y editar los disfraces asociados con el objeto.
+Podemos tener el número de disfraces que queramos para cada objeto.
+
+![Imagen 13](images/13.png)  
+
+
+Es importante saber que el disfraz que se encuentra enmarcado en azul es el disfraz que estamos usando,es decir, es el disfraz activo.
+
+También podemos modificar los disfraces, para añadir o quitar lo que queramos.
+
+Podemos:
+
+- Pintar: Crear el disfraz que mas nos guste, con el editor de Scrath.
+- Importar: Crear un nuevo disfraz a partir de un fichero de imagen.
+- Cámara: Crear disfraces con las fotos que tomamos con la webcam.
+
+
+Sonidos:
+---
+En este apartado vemos los sonidos asociados a cada objeto. Podemos tener tantos sonidos como queramos asociados a un objeto.
+
+![Imagen 14](images/14.png)  
+
+
+* Grabar: Creamos un nuevo sonido grabandolo con el micrófono.
+* Importar: Creamos un nuevo sonido a partir de un fichero. Scrath puede reproducir formatos de tipo MP3, WAV, AIF y AU.
 
 #####Taller de Introducción a Scratch
 #####OpenXXI S.C.
