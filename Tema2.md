@@ -156,4 +156,4 @@ En este apartado vemos los sonidos asociados a cada objeto. Podemos tener tantos
 * Importar: Creamos un nuevo sonido a partir de un fichero. Scrath puede reproducir formatos de tipo MP3, WAV, AIF y AU.
 
 ##### Taller de Introducción a Scratch
-##### OpenXXI S.C.
+#####  OpenXXI S.C.
