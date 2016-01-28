@@ -1,10 +1,10 @@
-#Tema 1 Introducción a Programación
+# Tema 1 Introducción a Programación
 
 
-##A. Que es un lenguaje de programación
+## A. Que es un lenguaje de programación
 
 Cuando hablamos de lenguaje de programación, nos referimos a un un sistema estructurado y diseñado principalmente para que las máquinas y ordenadores se entiendan entre ellas y con nosotros, los seres humanos. En los lenguajes de programación encontramos una seria de acciones consecutivas que el ordenador debe ejecutar.
-##B. Pensamiento computacional o «Computational Thinking
+## B. Pensamiento computacional o «Computational Thinking
  
 El pensamiento computacional es un método de resolución de problemas y debe su nombre por su origen en las técnicas propias de la informática. Se trata de una habilidad interesante en muchas áreas.
 
@@ -23,7 +23,7 @@ que nos sirva para resolver esos pequeños problemas.
 Algoritmo: Cuando tenemos clara la solución, nos encontramos en el momento de escribir un
 proceso paso a paso de como llegar a la solución.
 ```
-#####Taller de Introducción a Scratch
-#####OpenXXI S.C.
+##### Taller de Introducción a Scratch
+##### OpenXXI S.C.
 
 
