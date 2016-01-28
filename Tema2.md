@@ -155,5 +155,42 @@ En este apartado vemos los sonidos asociados a cada objeto. Podemos tener tantos
 * Grabar: Creamos un nuevo sonido grabandolo con el micrófono.
 * Importar: Creamos un nuevo sonido a partir de un fichero. Scrath puede reproducir formatos de tipo MP3, WAV, AIF y AU.
 
+## 3 Escenario y visualización del programa
+
+Se divide en varias zonas:
+
+![Imagen 17](images/17.png)  
+
+** Barra de herramientas:**
+
+ Seleccionamos la acción que deseamos y a continuación sobre el objeto que deseamos.
+
+ ![Imagen 15](images/15.png)  
+
+  * Duplicar: Objetos, disfraces, sonidos y bloques.
+  * Borrar: Objetos, disfraces, sonidos y bloques.
+  * Aumentar: Hace el objeto más grande.
+  * Disminuir: Hace el objeto mas pequeño.
+
+**  Previsualización: **
+
+Modifica el modo de visualización del entorno de Scrath.
+
+Tenemos distintos modos: Previsualización en área grande, en área pequeña y modo de presentación.
+
+![Imagen 16](images/16.png)  
+
+
+** Bandera verde: ** Nos sirve para iniciar las creaciones que realizamos con Scrath.
+
+** Circulo rojo: **  Detiene la ejecución de todos los programas.
+
+** Escenario **
+
+Es donde visualizamos las creaciones que realizamos en Scrath.
+
+
+
+
 ##### Taller de Introducción a Scratch
 #####  OpenXXI S.C.
